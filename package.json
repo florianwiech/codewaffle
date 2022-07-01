@@ -36,14 +36,14 @@
     "forge": "./forge.config.js"
   },
   "dependencies": {
-    "@codemirror/autocomplete": "0.20.2",
+    "@codemirror/autocomplete": "0.20.3",
     "@codemirror/commands": "0.20.0",
     "@codemirror/language": "0.20.2",
     "@codemirror/language-data": "0.20.0",
     "@codemirror/lint": "0.20.3",
     "@codemirror/search": "0.20.1",
-    "@codemirror/state": "0.20.0",
-    "@codemirror/view": "0.20.6",
+    "@codemirror/state": "0.20.1",
+    "@codemirror/view": "0.20.7",
     "@primer/primitives": "7.8.3",
     "bootstrap-icons": "1.8.3",
     "electron-devtools-installer": "3.2.0",
@@ -120,7 +120,7 @@
     "webpack-cli": "4.9.2"
   },
   "resolutions": {
-    "@codemirror/view": "^0.20.0",
-    "@codemirror/state": "^0.20.0"
+    "@codemirror/view": "0.20.7",
+    "@codemirror/state": "0.20.1"
   }
 }
